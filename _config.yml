@@ -1,4 +1,4 @@
-name: Maison Neak Doung
+name: 'YOLO & CO'
 favicon: null
 layout_spectrum: 0.5475282522384077
 typography_spectrum: 0.7822006342466921
@@ -22,8 +22,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.1453167072031647
-  lightness: 0.14454930275678635
-  saturation: 0.21353903855197132
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 0.012614532373845577
 purpose: []
