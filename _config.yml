@@ -1,0 +1,28 @@
+name: Maison Neak Doung
+favicon: null
+layout_spectrum: 0.5475282522384077
+typography_spectrum: 0.7822006342466921
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1453167072031647
+  lightness: 0.14454930275678635
+  saturation: 0.21353903855197132
+  rhythmicContrast: 0.012614532373845577
+purpose: []
